@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+m_EditorVersion: 2018.2.12f1
+=======
+m_EditorVersion: 2018.2.7f1
+>>>>>>> _NB_Dude_Srrsly_its_abOOm_in_space_v_1.0

@@ -1,0 +1,342 @@
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\mscorlib.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\System.Core.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\System.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\System.Xml.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityScript.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\obj\Debug\Assembly-CSharp.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\GameFlow.dll
+C:\Users\Sabbatini\Documents\Space Sonic Boom\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\GameFlow.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Assembly-CSharp.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Boo.Lang.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\GameFlow.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\mscorlib.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Polarith.AI.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\System.Core.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\System.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\System.Xml.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\System.Xml.Linq.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.Locator.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEditor.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UI.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityScript.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityScript.Lang.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.Cecil.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.DataContract.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\ExCSS.Unity.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.IvyParser.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Unity.CecilTools.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEditor.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.UI.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\GameFlow.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\Temp\bin\Debug\Polarith.AI.xml
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\obj\Debug\Assembly-CSharp.dll
+D:\GitHub\Space-Sonic-Boom\Space Sonic Boom\obj\Debug\Assembly-CSharp.pdb
