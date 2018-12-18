@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -37,15 +37,16 @@ public class PlayerHealth : MonoBehaviour {
         canTakeDamage = false;
 		Invoke("CanTakeDamage", damageDelay);
 		//Respawn when 'B' key is pressed
-		if (Input.GetKey(KeyCode.B))
-		{
-			timeLeft += 100f;
-			EnergyOrb.orbCounter = 0;
+//		if (Input.GetKey(KeyCode.B))
+//		{
+//			timeLeft += 100f;
+//			EnergyOrb.orbCounter = 0;
 //			Respawn();
-		}
+//		}
         if (currentHealth <= 0)
         {
             GameOver();
+//            Respawn();
         }
 
         timeLeft -= Time.deltaTime;
