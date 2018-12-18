@@ -126,7 +126,7 @@ public class PlayerTriggers : MonoBehaviour {
         {
             enemyStatusScript = coll.gameObject.GetComponent<EnemyStatus>();
             enemyStatusScript.health -= 5; 
-            playerStatusScript.health -= 1;
+            playerStatusScript.health -= 3;
 
             //Destroys the game object if the game object health is less than 1
             if (enemyStatusScript.health < 1)

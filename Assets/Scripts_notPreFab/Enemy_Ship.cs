@@ -38,9 +38,7 @@ There is not much to this, really. Any questions?
 		/// <summary>
 		/// Ties all the primary ship components together.
 		/// </summary>
-		//[RequireComponent(typeof(Rigidbody))]
-		//[RequireComponent(typeof(Enemy_Ship_Physics))]
-		//[RequireComponent(typeof(Enemy_Ship_Input))]
+
 
 		public class Enemy_Ship : MonoBehaviour//, Pathfinding
 		{    
@@ -55,6 +53,7 @@ There is not much to this, really. Any questions?
 		    public float TimeBTWShots;
 
 		//    [Header ("References")]
+	private Enemy_Ship ShipScript;
 		    public GameObject shot;
 			private GameObject player;
 			private Transform playerTransform;
@@ -83,8 +82,29 @@ There is not much to this, really. Any questions?
 		    // public Vector3 Velocity { get { return this.physics.Rigidbody.velocity; } }
 		    // public float Throttle { get { return input.throttle; } }
 
+	private void Start()
+	{
+		// input = GetComponent<Enemy_Ship_Input>();
+		// physics = GetComponent<Enemy_Ship_Physics>();
+		//shipRigidBody = GetComponent<Rigidbody> ();
+		player = GameObject.FindGameObjectWithTag("PlayerShip");
+		playerTransform = GameObject.FindGameObjectWithTag("PlayerShip").transform;
+		playerRigidBody = player.GetComponent<Rigidbody> ();
+		enemy = this.gameObject;
+		ShipScript = enemy.GetComponent<Enemy_Ship> ();
+		enemyTransform = this.transform;
+		enemyRigidBody = enemy.GetComponent<Rigidbody> ();
+		nextWaypoint = GameObject.FindGameObjectWithTag ("Waypoint").transform.position;
+		//theParticleL = GetComponentsInParent<ParticleSystem> ();
+		//theParticleR = GetComponentsInParent<ParticleSystem> ();
+
+	}
+
 		    private void Awake()
-		    {
+	{
+		this.enabled = true;
+		ShipScript = this.GetComponent<Enemy_Ship> ();
+		ShipScript.enabled = true;
 		        // input = GetComponent<Enemy_Ship_Input>();
 		        // physics = GetComponent<Enemy_Ship_Physics>();
 				//shipRigidBody = GetComponent<Rigidbody> ();
@@ -99,9 +119,18 @@ There is not much to this, really. Any questions?
 				//theParticleR = GetComponentsInParent<ParticleSystem> ();
 
 		    }
-
+	void OnCollisionEnter(Collision coll)
+	{
+		//Looks for rings
+		if (coll.gameObject.CompareTag ("Laser")) {
+//			enemyStatusScript = coll.gameObject.GetComponent<EnemyStatus>();
+			this.gameObject.GetComponent<enemy_health>().EcurrentHealth -= 5;
+		}
+	}
 		    private void Update()
 		    {
+		this.enabled = true;
+		ShipScript.enabled = true;
 		        // Pass the input to the physics to move the ship.
 		        // physics.SetPhysicsInput(new Vector3(input.strafe, 0.0f, input.throttle), new Vector3(input.pitch, input.yaw, input.roll));
 
@@ -117,11 +146,11 @@ There is not much to this, really. Any questions?
 enemyRigidBody.MoveRotation(Quaternion.AngleAxis(0,Vector3.MoveTowards(enemyRigidBody.velocity,new Vector3(playerRigidBody.velocity.x,playerRigidBody.velocity.y,-1),500f))); //enemyRigidBody.rotation * finalRotation enemyrigidbody.moverotation
 
 */
-			Vector3 relativePosition = playerTransform.position; // - this.transform.position); Quaternion.FromToRotation Quaternion.RotateTowards
-			Quaternion targetRotation = Quaternion.LookRotation(enemyTransform.position,playerTransform.position);
-			Quaternion finalRotation = Quaternion.RotateTowards (this.transform.rotation, targetRotation, (torque * Time.deltaTime));
-		Quaternion inverse_targetRotation = new Quaternion(targetRotation.x-90f, targetRotation.y-90f, targetRotation.z,targetRotation.w);
-		Quaternion inverse_finalRotation = Quaternion.RotateTowards (this.transform.rotation, inverse_targetRotation, (torque * Time.deltaTime));
+//			Vector3 relativePosition = playerTransform.position; // - this.transform.position); Quaternion.FromToRotation Quaternion.RotateTowards
+//			Quaternion targetRotation = Quaternion.LookRotation(enemyTransform.position,playerTransform.position);
+//			Quaternion finalRotation = Quaternion.RotateTowards (this.transform.rotation, targetRotation, (torque * Time.deltaTime));
+//		Quaternion inverse_targetRotation = new Quaternion(targetRotation.x-90f, targetRotation.y-90f, targetRotation.z,targetRotation.w);
+//		Quaternion inverse_finalRotation = Quaternion.RotateTowards (this.transform.rotation, inverse_targetRotation, (torque * Time.deltaTime));
 
 //			if (nearToPlayerDistance > 0 && Vector3.Distance (this.transform.position, playerTransform.position) > nearToPlayerDistance) {
 //				//destination must be set on waypoint setup points that are like an array that increments each time one is passed, basically a race track, or patrol route which would call a hard coding of setting the loop to [0] in the waypoint array

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 
 
@@ -34,7 +35,14 @@ public class PlayerHealth : MonoBehaviour {
         float ratio = currentHealth / maxHealth;
         currentHealthBar.rectTransform.localScale = new Vector3(ratio,1,1);
         canTakeDamage = false;
-        Invoke("CanTakeDamage", damageDelay);
+		Invoke("CanTakeDamage", damageDelay);
+		//Respawn when 'B' key is pressed
+		if (Input.GetKey(KeyCode.B))
+		{
+			timeLeft += 100f;
+			EnergyOrb.orbCounter = 0;
+//			Respawn();
+		}
         if (currentHealth <= 0)
         {
             GameOver();
@@ -66,9 +74,17 @@ public class PlayerHealth : MonoBehaviour {
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Laser")
+		if (other.tag == "Laser") {
+			return;
+		}
+//		if(other.gameObject.name == "enemy_shot_prefab(Clone)")
+//		{
+//			currentHealth -= 1;
+//		}
+		if (other.CompareTag("enemy_Laser"))
         {
-            return;
+			currentHealth -= 10;
+			return;
         }
 
         if (other.tag == "EnergyOrb")
@@ -124,5 +140,14 @@ public class PlayerHealth : MonoBehaviour {
         orbsCollected.SetActive(false);
         winGameText.SetActive(true);
         healthBar.SetActive(false);
-    }
+	}
+	void Respawn()
+	{
+		//		this.GetComponent<PlayerHealth> (). = 300f;
+//		timeLeft = 200f;
+		Scene level3 = SceneManager.GetSceneByName ("Level3");
+		SceneManager.UnloadSceneAsync ("Level3");
+		SceneManager.LoadScene ("Level3");
+		SceneManager.SetActiveScene (level3);
+	}
 }

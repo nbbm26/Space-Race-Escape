@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 /// <summary>
 /// Class specifically to deal with input.
@@ -35,8 +36,7 @@ public class ShipInput : MonoBehaviour
     }
   
     private void Update()
-    {
-       
+	{
 
         if (useMouseInput)
         {
@@ -99,4 +99,5 @@ public class ShipInput : MonoBehaviour
         throttle += Input.GetAxis("Mouse ScrollWheel");
         throttle = Mathf.Clamp(throttle, 0.0f, 1.0f);
     }
+		
 }

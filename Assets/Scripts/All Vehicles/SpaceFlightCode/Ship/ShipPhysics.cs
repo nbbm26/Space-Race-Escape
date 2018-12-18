@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 /// <summary>
 /// Applies linear and angular forces to a ship.
@@ -25,6 +26,7 @@ public class ShipPhysics : MonoBehaviour
     private Vector3 appliedAngularForce = Vector3.zero;
 
     private Rigidbody rbody;
+	private Enemy_Ship enemy_ship_script;
 
     // Keep a reference to the ship this is attached to just in case.
     private Ship ship;
@@ -32,6 +34,7 @@ public class ShipPhysics : MonoBehaviour
     // Use this for initialization
     void Awake()
     {
+		enemy_ship_script = this.GetComponent<Enemy_Ship> ();
         rbody = GetComponent<Rigidbody>();
         if (rbody == null)
         {
@@ -52,6 +55,7 @@ public class ShipPhysics : MonoBehaviour
 
     void Update()
     {
+		this.gameObject.GetComponent<Enemy_Ship> ().enabled = true;
          if (Input.GetKeyDown(KeyCode.Z))
         {
             angularForce.Set(5f, 5f, 5f);
@@ -64,7 +68,7 @@ public class ShipPhysics : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.C))
         {
-            angularForce.Set(40f, 40f, 40f);
+            angularForce.Set(20f, 20f, 20f);
         }
     }
 

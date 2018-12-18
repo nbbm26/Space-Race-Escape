@@ -30,7 +30,7 @@ namespace VolumetricLines
 	[ExecuteInEditMode]
 	public class VolumetricLineBehavior : MonoBehaviour 
 	{
-		#region private variables
+//		#region private variables
 		/// <summary>
 		/// Template material to be used
 		/// </summary>
@@ -84,9 +84,9 @@ namespace VolumetricLines
 		/// This GameObject's mesh filter
 		/// </summary>
 		private MeshFilter m_meshFilter;
-		#endregion
+//		#endregion
 
-		#region properties
+//		#region properties
 		/// <summary>
 		/// Gets or sets the tmplate material.
 		/// Setting this will only have an impact once. 
@@ -188,9 +188,9 @@ namespace VolumetricLines
 			}
 		}
 
-		#endregion
+//		#endregion
 		
-		#region methods
+//		#region methods
 		/// <summary>
 		/// Creates a copy of the template material for this instance
 		/// </summary>
@@ -274,9 +274,9 @@ namespace VolumetricLines
 				}
 			}
 		}
-		#endregion
+//		#endregion
 
-		#region event functions
+//		#region event functions
 		void Start () 
 		{
 			Vector3[] vertexPositions = {
@@ -340,6 +340,6 @@ namespace VolumetricLines
 			Gizmos.color = Color.green;
 			Gizmos.DrawLine(gameObject.transform.TransformPoint(m_startPos), gameObject.transform.TransformPoint(m_endPos));
 		}
-		#endregion
+//		#endregion
 	}
 }
