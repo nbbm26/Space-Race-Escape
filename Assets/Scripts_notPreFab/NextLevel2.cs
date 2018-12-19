@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -15,8 +15,8 @@ public class NextLevel2 : MonoBehaviour {
 	private void OnTriggerEnter(Collider Player) {
 //		Player = GameObject.FindGameObjectWithTag ("Player").GetComponent<Collider>();
 		if (Player.gameObject.tag=="Player"){
-			Scene level2 = SceneManager.GetSceneByName ("(Official Ground Level)");
-			SceneManager.LoadScene ("(Official Ground Level)");
+			Scene level2 = SceneManager.GetSceneByName ("level2_carChase");
+			SceneManager.LoadScene ("level2_carChase");
 			SceneManager.SetActiveScene (level2);
 			SceneManager.UnloadSceneAsync ("level1_escape");
 		}
